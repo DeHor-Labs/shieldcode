@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  > **Nota:** ShieldCode é uma skill do Claude Code, não um pacote npm ou pip.
+</p>
+
+<p align="center">
   <a href="#install">Install</a> ·
   <a href="#what-it-covers">Coverage</a> ·
   <a href="#before--after">Examples</a> ·
