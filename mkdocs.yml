@@ -1,9 +1,9 @@
 site_name: ShieldCode
 site_description: Skill do Claude Code que protege código gerado contra OWASP Top 10. SQL injection, XSS, SSRF, path traversal e mais.
-site_url: https://nikolasdehor.github.io/shieldcode/
+site_url: https://dehor-labs.github.io/shieldcode/
 site_author: Nikolas de Hor
-repo_url: https://github.com/nikolasdehor/shieldcode
-repo_name: nikolasdehor/shieldcode
+repo_url: https://github.com/DeHor-Labs/shieldcode
+repo_name: DeHor-Labs/shieldcode
 edit_uri: edit/main/docs/
 
 theme:
